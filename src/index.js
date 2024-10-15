@@ -6,8 +6,10 @@ import Appl from "./Appl.js"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+ <>
  <App></App>
 <Appl></Appl>
+ </>
 );
 
 
